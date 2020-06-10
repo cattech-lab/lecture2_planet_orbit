@@ -6,6 +6,10 @@ https://cattech-lab.com/science-tools/simulation-lecture/#lec2
 地球の軌道をルンゲ=クッタ法でシミュレーションするPythonプログラムです。  
 ルンゲ=クッタ法は４段４次です。
 
+rk4_damped_oscillation.py：　減衰振動のルンゲ=クッタ法のプログラム
+
+rk4_planet_orbit.py：　地球軌道のルンゲ=クッタ法のプログラム
+
 ## 開発環境
 Anaconda3  
 Python3.7
